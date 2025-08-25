@@ -4,5 +4,9 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"editor.formatOnSave": true,
+		"python.formatter.provider": "ruff",
+		"ruff.format": true
+	}
 }
